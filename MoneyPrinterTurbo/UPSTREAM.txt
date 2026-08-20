@@ -1,0 +1,4 @@
+upstream: https://github.com/harry0703/MoneyPrinterTurbo
+commit: d84f4f344f1434286603994eedc7f46330f456b3
+date: 2026-08-20 10:34:51 +0800
+message: fix(llm): preserve internal response newlines

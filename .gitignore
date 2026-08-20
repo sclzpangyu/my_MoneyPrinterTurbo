@@ -1,0 +1,7 @@
+# Local secrets and runtime (do not commit)
+MoneyPrinterTurbo/config.toml
+MoneyPrinterTurbo/config.toml.bak
+MoneyPrinterTurbo/.venv/
+MoneyPrinterTurbo/venv/
+MoneyPrinterTurbo/storage/
+MoneyPrinterTurbo/logs/
